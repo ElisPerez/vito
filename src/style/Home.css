@@ -1,0 +1,47 @@
+.contenedor_home {
+    position: relative;
+    margin-top: 20px;
+}
+
+
+.contenedor_imagen_avatar {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.texto_avatar {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1.5rem;
+}
+
+.home_avatar {
+    width: 300px;
+
+}
+
+.wave_contenedor {
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+
+}
+
+/* Contendor 2  */
+.contenedor_home_segundaparte {
+    background-color: #0066FF;
+
+    height: 50%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: wheat;
+    padding: 50px;
+    padding-top: 0;
+
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
+
+}
+
+.lenguajes {}
